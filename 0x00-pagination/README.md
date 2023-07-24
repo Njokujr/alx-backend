@@ -1,6 +1,4 @@
 # 0x00. PAGINATION
-![Back-end](#)
-
 
 ## LEARNING OBJECTIVES
 - How to paginate a dataset with simple page and page_size parameters
